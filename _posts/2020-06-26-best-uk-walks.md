@@ -4,7 +4,7 @@ title:  "The UK's Top 10 Places to Walk"
 author: jane
 categories: [ Health, Wellbeing, Walking ]
 image: assets/images/walking.jpg
-tags: [Health, Wellbeing, Walking]
+tags: [featured]
 ---
 The UK has some of the best natural scenery in the world, however sometimes I think we all forget about it as we get busy with our daily lives. 
 
