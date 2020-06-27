@@ -19,7 +19,7 @@ plugins:
   
 authors:
     mark:
-      name:           mark
+      name:           Mark
       site:           https://healthwellmercantile.co.uk
       avatar:         /assets/images/mark.png
       bio:            "Hi, I am Mark, the Director/Author of Health Well Mercantile. Contact me at mark@healthwellmercantile.co.uk"
@@ -33,7 +33,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Mark
+      author: mark
       avatar: /assets/images/mark.png
       
   # all pages
