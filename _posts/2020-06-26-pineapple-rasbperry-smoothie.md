@@ -3,7 +3,7 @@ layout: post
 title:  "Pinepple and Raspberry Smoothie"
 author: Mark
 categories: [ Health, Wellbeing, Food, Recipe ]
-image: ../assets/images/raspberry-pineapple-smoothie.jpg 
+image: assets/images/raspberry-pineapple-smoothie.jpg 
 tags: [summer]
 ---
 It's summer and its really hot at the moment! `(You may have noticed :D)`
