@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The UK's Top 10 Places to Walk"
-author: jane
+author: Mark
 categories: [ Health, Wellbeing, Walking ]
 image: assets/images/walking.jpg
 tags: [featured]
