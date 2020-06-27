@@ -18,8 +18,8 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Mark:
-      name:           Mark
+    mark:
+      name:           mark
       site:           https://healthwellmercantile.co.uk
       avatar:         /assets/images/mark.png
       bio:            "Hi, I am Mark, the Director/Author of Health Well Mercantile. Contact me at mark@healthwellmercantile.co.uk"
