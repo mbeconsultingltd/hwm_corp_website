@@ -18,19 +18,12 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    Mark:
       name:           Mark
       site:           https://healthwellmercantile.co.uk
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Mark, the author of Health Well Mercantile, the theme you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am Mark, the author of Health Well Mercantile. Contact me at mark@healthwellmercantile.co.uk"
       email:          contact@healthwellmercantile.co.uk
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
  
 # Defaults
 defaults:
