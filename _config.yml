@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 email: 'contact@healthwellmercantile.co.uk'
-mailchimp-list: ''
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=46bba9da9164d412c736cac44b288369-us10&amp;id=381c7b4d16'
 
 include: ["_pages"]
 permalink: /:title/
