@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pinepple and Raspberry Smoothie"
+title:  "Pineapple and Raspberry Smoothie"
 author: Mark
 categories: [ Health, Wellbeing, Food, Recipe ]
 image: assets/images/raspberry-pineapple-smoothie.jpg 
