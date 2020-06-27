@@ -18,6 +18,6 @@ What better way to cool down than with a healthy and refreshing smoothie recipe!
 4. 1 cup orange pineapple juice
 5. Optional: 1/2 cup of yogurt
 
-The original recipe for this can be detailed in the link below.
+The original recipe for this can be detailed in the link below from The Spruce Eats.
 
 [The Spruce Eats Pineapple and Raspberry Smoothie](https://www.thespruceeats.com/tropical-raspberry-smoothie-4121216)
