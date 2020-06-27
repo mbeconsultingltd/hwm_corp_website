@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pineapple and Raspberry Smoothie"
-author: Mark
+author: mark
 categories: [ Health, Wellbeing, Food, Recipe ]
 image: assets/images/raspberry-pineapple-smoothie.jpg 
 tags: [summer]

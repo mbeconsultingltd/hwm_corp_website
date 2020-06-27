@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UK Strategy for Financial Wellbeing"
-author: Mark
+author: mark
 categories: [ financial, wellness ]
 image: assets/images/uk-strategy.jpg
 tags: [featured]

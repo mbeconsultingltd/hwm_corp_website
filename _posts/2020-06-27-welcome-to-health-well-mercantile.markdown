@@ -4,7 +4,7 @@ title:  "Welcome to Health Well Mercantile!"
 categories: [ Health Well Mercantile ]
 image: assets/images/logo3.png
 tags: [sticky]
-author: Mark
+author: mark
 ---
 Welcome to `Health Well Mercantile`. This site is looking to provide content and information to all about the benefits of Health and Wellness. In these turbulent times that we are currently experiencing in life at the moment, it feels like a good time to try and give back to people. 
 
