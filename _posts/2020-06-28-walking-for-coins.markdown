@@ -12,6 +12,6 @@ One of the more popular ones is Sweatcoin. They are currently one of the fastest
 
 Once you have earned an amount of the coins these can then be used to purchase goods or services. You can also donate the coins to charity if you would like.
 
-If this sounds like something your interested in please feel free to check out the referal link below and to learn more about Sweatcoin.
+If this sounds like something you are interested in please feel free to check out the referral link below and to learn more about Sweatcoin.
 
 [Sweatcoin sign up](https://sc.healthwellmercantile.co.uk)

@@ -6,7 +6,7 @@ categories: [ financial, wellness ]
 image: assets/images/uk-strategy.jpg
 tags: [featured]
 ---
-The Money and Pensions Service has published a guide which details the UK strategy for financial wellbeing. It is a welcome indicator that the UK Government instituions are attempting to provide further information to people which will enable to them to better control their finances.
+The Money and Pensions Service has published a guide which details the UK strategy for financial wellbeing. It is a welcome indicator that the UK Government institutions are attempting to provide further information to people which will enable them to better control their finances.
 
 What is the plan?
 
