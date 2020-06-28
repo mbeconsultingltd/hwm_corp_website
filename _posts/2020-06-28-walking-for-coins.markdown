@@ -3,7 +3,7 @@ layout: post
 title:  "Walking for coins?"
 categories: [ Health Well Mercantile ]
 image: assets/images/walking2.png
-tags: [sticky]
+tags: [sticky, featured]
 author: mark
 ---
 Walking can also be financially rewarding. There are quite a few different applications that are coming out now that will reward you with coins when your out and about.
