@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Walking for coins?"
-categories: [ Health Well Mercantile ]
+categories: [ Health, Walking, Financial, Wellness ]
 image: assets/images/walking2.jpg
 tags: [sticky, featured]
 author: mark
