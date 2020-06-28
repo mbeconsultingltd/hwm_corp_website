@@ -2,7 +2,7 @@
 layout: post
 title:  "Walking for coins?"
 categories: [ Health Well Mercantile ]
-image: assets/images/walking2.png
+image: assets/images/walking2.jpg
 tags: [sticky, featured]
 author: mark
 ---
