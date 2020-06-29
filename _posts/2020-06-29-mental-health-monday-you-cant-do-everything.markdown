@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Mental Health Monday - You cant do everything at once!"
-categories: [ Health, Financial, Wellness ]
-image: assets/images/tax.jpg
+categories: [ Health, Mental Health Monday, Wellness ]
+image: assets/images/mental-health-monday.jpg
 tags: [featured]
 author: mark
 ---
